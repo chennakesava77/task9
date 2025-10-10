@@ -10,29 +10,7 @@ Gateway Service – Routes requests to the respective microservices.
 
 The project also demonstrates DevOps best practices like containerization, orchestration with Docker Compose, and optional CI/CD integration.
 
-🗂️ Project Structure
-microservices-devops/
-│
-├── user-service/
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── Dockerfile
-│
-├── task-service/
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── Dockerfile
-│
-├── gateway-service/
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── Dockerfile
-│
-├── docker-compose.yml
-├── README.md
-└── .github/
-    └── workflows/
-        └── ci-cd.yml
+
 
 🧩 Features
 Service	Description
